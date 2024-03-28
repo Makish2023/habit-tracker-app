@@ -18,7 +18,7 @@ What can I say, **Habit Tracker** keeps track of your habits :fireworks: :ok_han
 
 A short video (2 minutes in length) where I present the project.
 
-[![Video presentation](https://i.gyazo.com/e642a79e194b30fa3deaa050e0c4b0f5.png)](https://www.youtube.com/watch?v=zIr_d1ZsIGQ)
+
 
 ## Features and Stack
 
